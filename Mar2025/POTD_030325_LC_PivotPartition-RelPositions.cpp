@@ -23,7 +23,7 @@ class Solution {
             } cout << "]\n";
         }
 
-        vector<int> pivotArray(vector<int>& arr, int pivot){
+        vector<int> pivotArray_BruteForce(vector<int>& arr, int pivot){
             vector<int> smaller;
             vector<int> larger;
             int repeat = 0;
@@ -52,6 +52,37 @@ class Solution {
             appendVector(larger, result);
             return result;
         }
+
+        vector<int> pivotArray_TwoPointerApprch(vector<int>& arr, int pivot) {
+            int n = arr.size();
+            int left = 0, right = n-1;
+            int i=left, j=right;
+
+            vector<int> res (n, 0);
+
+            while(i < n)
+            {
+                if(arr[i] < pivot) {
+                    res[left] = arr[i];
+                    left++;
+                }
+                if(arr[j] > pivot) {
+                    res[right] = arr[j];
+                    right--;
+                }
+
+                i++; j--;
+            }
+
+            while(left <= right) {
+                res[left] = pivot;
+                left++;
+            }
+
+            return res;
+        }
+
+        
 };
 
 int main(void) 
@@ -71,7 +102,8 @@ int main(void)
     cin >> pivot;
 
     Solution soln = Solution();
-    vector<int> result = soln.pivotArray(arr, pivot);
+    // vector<int> result = soln.pivotArray_BruteForce(arr, pivot);
+    vector<int> result = soln.pivotArray_TwoPointerApprch(arr, pivot);
 
     cout << "Result : \n[ ";
     for(const int& ele : result){
