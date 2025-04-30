@@ -1,2 +1,7 @@
 
+# All executable files.
 *.exe
+
+# Input & Output viewing files.
+input.txt
+output.txt
