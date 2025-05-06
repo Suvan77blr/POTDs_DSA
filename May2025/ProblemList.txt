@@ -2,16 +2,20 @@
 -> CN :-
 
 01 : Added-Character-in-'T' (Strings)
+02 : e _ Inserting at Bottom of Stack. (Stack, Recursion)
+     m _ Rotten Oranges (Graphs, BFS, Matrix-Traversal, Queue-FIFO)
 
 ____________________________________________________________________________________________________
 -> GFG :-
 
 01 : Pascal's Triangle's N'th Row  (Arrays, DP, Math [Combinatorics])
+02 : Bitonic Point / Peak Element (Binary Search)
 
 ____________________________________________________________________________________________________
 -> LeetCode :-
 
 01 : Maximum Assignable Tasks (Sorting, Binary Search, Greedy, Multiset [TreeSet equivalent] ).
+02 : Push Dominoes (Greedy, Prefix-Sum [Force Propogation Approach])
 
 ____________________________________________________________________________________________________
 
