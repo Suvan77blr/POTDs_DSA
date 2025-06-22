@@ -8,6 +8,9 @@
 - [Mirror String](./CN/POTD_062225_CN_e_Mirror-String.cpp):
     _Topics: Palindrome Check (Two Pointers), Hashing(unordered\_set)_ [062225] 
 
+### Regular Practise
+- [Triplet where sum of any two equals the third](./CN/RegularPractise/Prob_062225_CN_e_Sum-Of-Two-Eq-Third.cpp): 
+    _Topics: Two-pointer, array sorting, abstraction of logic(Fix-one)_ [062225]
 
 ## G4G 
 - []()
