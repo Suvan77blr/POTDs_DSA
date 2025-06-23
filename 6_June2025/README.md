@@ -7,6 +7,8 @@
     _Topics: Sliding Window, Two Pointers, Hash-Map, Strings_ [062125]
 - [Mirror String](./CN/POTD_062225_CN_e_Mirror-String.cpp):
     _Topics: Palindrome Check (Two Pointers), Hashing(unordered\_set)_ [062225] 
+- [Corporate Flight Bookings](./CN/POTD_062325_CN_e_Corporate-Flight-Bookings.cpp):
+    _Topics: Prefix Sum, Difference Array_ [062325]
 
 ### Regular Practise
 - [Triplet where sum of any two equals the third](./CN/RegularPractise/Prob_062225_CN_e_Sum-Of-Two-Eq-Third.cpp): 
