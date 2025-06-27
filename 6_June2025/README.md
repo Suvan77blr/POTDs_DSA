@@ -17,6 +17,8 @@
     _Topics: Two-pointer, array sorting, abstraction of logic(Fix-one)_ [062225]
 - [Pair-Sum in Rotated Sorted Array](./CN/RegularPractise/Prob_062325_CN_e_PairSum-in-Rot-Sorted-Array.cpp):
     _Topics: Pivot-element finding, Circular-Two-Pointer_ [062325]
+- [Tower of Hanoi](./CN/RegularPractise/Prob_062625_GEN_Tower-Of-Hanoi.cpp):
+    _Topics: Recursion_ [062625]
 
 ## G4G 
 - []()
