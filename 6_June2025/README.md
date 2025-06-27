@@ -19,6 +19,8 @@
     _Topics: Pivot-element finding, Circular-Two-Pointer_ [062325]
 - [Tower of Hanoi](./CN/RegularPractise/Prob_062625_GEN_Tower-Of-Hanoi.cpp):
     _Topics: Recursion_ [062625]
+- [Family Structure](./CN/RegularPractise/Prob_062625_CN_e_Family-Structure-MF.cpp):
+    _Topics: Resursion, Bit-Manipulation_ [062625]
 
 ## G4G 
 - []()
