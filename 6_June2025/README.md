@@ -9,8 +9,11 @@
     _Topics: Palindrome Check (Two Pointers), Hashing(unordered\_set)_ [062225] 
 - [Corporate Flight Bookings](./CN/POTD_062325_CN_e_Corporate-Flight-Bookings.cpp):
     _Topics: Prefix Sum, Difference Array_ [062325]
-- [Substring Count with 2 chars in a Ternary String](./CN/POTD_062425_CN_m_Substrs-with-2Chars-in-Ternary-String.cpp)
+- [Substring Count with 2 chars in a Ternary String](./CN/POTD_062425_CN_m_Substrs-with-2Chars-in-Ternary-String.cpp):
     _Topics: Substring, Sliding-Window_ [062425]
+- [Grid Overlap](./CN/POTD_062625_CN_e_Grid-Overlap.cpp):
+    _Topics: 2D-Grid Traversal, Pair-Shift Manipulations, Pair-Hashing_ [062625]
+
 
 ### Regular Practise
 - [Triplet where sum of any two equals the third](./CN/RegularPractise/Prob_062225_CN_e_Sum-Of-Two-Eq-Third.cpp): 
