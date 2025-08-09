@@ -15,7 +15,7 @@
 
 ## LeetCode
 - [Pascal's Triangle](./LC/POTD_080125_LC_Pascals-Triangle.cpp) => `Array`, `Combinatorics`, `Math`, `Pattern Construction`. _080125_
-- []()
+- [Power of TWO](./LC/POTD_080925_LC_Pow-of-Two.cpp) => `Bit-Manipulation`, `Recursion`. _080925_
 
 ## Unstop
 - [Safe Zones in a Bomb Grid](./US/POTD_080125_US_Safe-Zones-in-Bomb-Grid.cpp) => `2D Matrix Traversal`, `Directional Vectors`. _080125_
